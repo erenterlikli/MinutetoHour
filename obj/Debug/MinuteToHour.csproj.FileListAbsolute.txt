@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\bin\Debug\MinuteToHour.exe.config
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\bin\Debug\MinuteToHour.exe
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\bin\Debug\MinuteToHour.pdb
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\obj\Debug\MinuteToHour.Form1.resources
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\obj\Debug\MinuteToHour.Properties.Resources.resources
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\obj\Debug\MinuteToHour.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\obj\Debug\MinuteToHour.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\obj\Debug\MinuteToHour.exe
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\obj\Debug\MinuteToHour.pdb
+C:\Users\Eren\source\repos\MinuteToHour\MinuteToHour\obj\Debug\MinuteToHour.csprojAssemblyReference.cache
